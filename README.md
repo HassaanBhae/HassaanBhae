@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++,Html,Javascript,Css.**
 
-- 👨‍💻 All of my projects are available at [HassaanBhae\DataStructureAlgorithms](DataStructureAlgorithms)
+- 👨‍💻 All of my projects are available at ([DataStructureAlgorithms](https://github.com/HassaanBhae/DataStructureAlgorithms))
 
 - 💬 Ask me about **Game Development Engines(Unity,Unreal Engine).**
 
