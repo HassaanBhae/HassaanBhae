@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++,Html,Javascript,Css.**
 
-- 👨‍💻 All of my projects are available at [DataStructureAlorithms](DataStructureAlgorithms)
+- 👨‍💻 All of my projects are available at [DataStructureAlgorithms\](DataStructureAlgorithms)
 
 - 💬 Ask me about **Game Development Engines(Unity,Unreal Engine).**
 
