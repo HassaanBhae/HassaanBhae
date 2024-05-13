@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structure Algorithms.**
 
-- 🌱 I’m currently learning **C++,Html,Javascript,Cs.**
+- 🌱 I’m currently learning **C++,Html,Javascript,Css.**
 
 - 👨‍💻 All of my current projects are available at [DataStructureAlgorithms](https://github.com/HassaanBhae/DataStructureAlgorithms)
 
