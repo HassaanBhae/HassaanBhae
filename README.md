@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structure Algorithms.**
 
-- 🌱 I’m currently learning **C++,Html,Javascript,Css**
-
-- 🤝 I’m looking for help with **starting Game Development.**
+- 🌱 I’m currently learning **C++,Html,Javascript,Css.**
 
 - 👨‍💻 All of my projects are available at [itch.io](itch.io)
 
