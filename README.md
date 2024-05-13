@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++,Html,Javascript,Css.**
 
-- 👨‍💻 All of my projects are available at [itch.io](itch.io)
+- 👨‍💻 All of my projects are available at [DataStructueAlorithms](DataStructueAlorithms)
 
 - 💬 Ask me about **Game Development Engines(Unity,Unreal Engine).**
 
