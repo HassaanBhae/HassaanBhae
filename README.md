@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hassaan!</h1>
-<h3 align="center">A passionate developer from Pakistan!</h3>
+<h3 align="center">A passionate C++ developer from Pakistan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanbhae&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanbhae" /> </p>
 
-- 🔭 I’m currently working on **Data Structure Algorithms.**
+- 🔭 I’m currently working on **A Chess Game.**
 
-- 🌱 I’m currently learning **C++,Html,Javascript,Css.**
+- 🌱 I’m currently learning **Html,Javascript,Css.**
 
-- 👨‍💻 All of my current projects are available at [DataStructureAlgorithms](https://github.com/HassaanBhae/DataStructureAlgorithms)
-
-- 💬 Ask me about **Game Development Engines(Unity,Unreal Engine).**
+- 💬 Ask me about **Game Development (SFML,Unity,Unreal Engine).**
 
 - 📫 How to reach me **hassaamushtaq04@gmail.com**
 
