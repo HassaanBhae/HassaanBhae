@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassaan!</h1>
-<h3 align="center">A passionate C++ developer from Pakistan!</h3>
+<h3 align="center">A passionate Web and C++ developer from Pakistan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanbhae&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanbhae" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Game Development (SFML,Unity,Unreal Engine).**
   
-- 🔭 I’m currently working on **A Chess Game.(C++)**
+- 🔭 I’m also made **A Chess Game.(C++)**
 
 - 📫 How to reach me **hassaamushtaq04@gmail.com**
 
