@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Game Development (SFML,Unity,Unreal Engine).**
   
-- 🔭 I’m also made [A Chess Game(C++)](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML).
+- ♟️ I’m also made [A Chess Game(C++)](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML).
 
 - 📫 How to reach me **hassaamushtaq04@gmail.com**
 
