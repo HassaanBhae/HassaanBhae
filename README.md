@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanbhae&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanbhae" /> </p>
 
-- 🌱 I’m currently learning Html,Css,Javascript.Checkout the web game i am working on at [The Shadow Fighter.](https://hassaanbhae.github.io/Rock-Paper-Scissors/)
+- 🌱 I’m currently learning Html,Css and Javascript. Checkout the web game i am working on at [The Shadow Fighter.](https://hassaanbhae.github.io/Rock-Paper-Scissors/)
 
-- ♟️ I’m also made A Chess Game(C++). [Chess Game(C++).](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML)
+- ♟️ I’m also made A [Chess Game(C++).](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HassaanBhae?tab=repositories](https://github.com/HassaanBhae?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories.](https://github.com/HassaanBhae?tab=repositories)
 
 - 💬 Ask me about **Game Development Engines(Unity,Unreal Engine).**
 
