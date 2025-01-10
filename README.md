@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Html,Css and Javascript. Checkout the web game i am working on at [The Shadow Fighter.](https://hassaanbhae.github.io/Rock-Paper-Scissors/)
 
-- ♟️ I’m also made A [Chess Game(C++).](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML)
+- ♟️ I also made A [Chess Game(C++).](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML)
 
 - 👨‍💻 All of my projects are available at [Repositories.](https://github.com/HassaanBhae?tab=repositories)
 
