@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanbhae&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanbhae" /> </p>
 
-- 🌱 I’m currently learning Html,Css and Javascript. Checkout the web game i am working on at [The Shadow Fighter.](https://hassaanbhae.github.io/Rock-Paper-Scissors/)
+- 🌱 I’m currently learning Html,Css and Javascript. Checkout the web game i am working on at [Kombat Realm.](https://github.com/HassaanBhae/Kombat-Realm)
 
 - ♟️ I also made A [Chess Game(C++).](https://github.com/HassaanBhae/Chess-Game-C-Plus-SFML)
 
